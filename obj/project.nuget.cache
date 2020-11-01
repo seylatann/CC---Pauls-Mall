@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3BeItQz7Oo103jOKRv0FUKaoW8d7MAMyGDc1QbeYnO/5uFB+QTCg0e936JZLiVhmwXLSmE3eynkr5eEuohamw==",
+  "success": true,
+  "projectFilePath": "/Users/seylatann/Downloads/ContosoCrafts-master/src/ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "/Users/seylatann/.nuget/packages/accessibility/4.6.0-alpha-27309-3/accessibility.4.6.0-alpha-27309-3.nupkg.sha512"
+  ],
+  "logs": []
+}
